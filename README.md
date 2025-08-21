@@ -2,11 +2,9 @@
 **Database Administrator | Full Stack Developer | Cloud & DevOps Specialist**
 
 ---
+📧 abdallah.admi@gmail.com | Orlando,Florida | 📞 (407) 242-1091
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdallah.admi)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abdallahadmi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallah-admi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallah-admi) | 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/A-Admi)
 
 ---
@@ -15,8 +13,6 @@
 I’m a results-driven technology professional with 5+ years of experience spanning **Database Administration, Full Stack Development, and Cloud/DevOps Engineering**. I focus on optimizing enterprise SQL environments, building scalable apps, and automating infrastructure to deliver secure, reliable, and high-performance solutions.. 
 
 ✨ *“I believe in building scalable, automated, and secure systems so businesses can focus on growth.”*
-
-📧 [abdallah.admi@gmail.com](mailto:abdallah.admi@gmail.com) · 🌐 [LinkedIn](https://linkedin.com/in/abdallah-admi) · 💻 [GitHub](https://github.com/A-Admi)
 
 ---
 
