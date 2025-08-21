@@ -5,7 +5,7 @@
 📧 abdallah.admi@gmail.com | Orlando,Florida | 📞 (407) 242-1091
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallah-admi) | 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://A-admi.github.io/AAdmi)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://a-admi.github.io/Aadmi/)
 
 ---
 
