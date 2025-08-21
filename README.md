@@ -5,11 +5,12 @@
 📧 abdallah.admi@gmail.com | Orlando,Florida | 📞 (407) 242-1091
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallah-admi) | 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/A-Admi)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://A-admi.github.io/AAdmi)
 
 ---
 
 ## 💫 About Me
+# US Citizen
 I’m a results-driven technology professional with 5+ years of experience spanning **Database Administration, Full Stack Development, and Cloud/DevOps Engineering**. I focus on optimizing enterprise SQL environments, building scalable apps, and automating infrastructure to deliver secure, reliable, and high-performance solutions.. 
 
 ✨ *“I believe in building scalable, automated, and secure systems so businesses can focus on growth.”*
